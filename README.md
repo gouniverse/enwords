@@ -1,5 +1,7 @@
 # List of English Words
 
+![tests](https://github.com/gouniverse/enwords/workflows/tests/badge.svg)
+
 This is a small package which returns a simple list of the English words as a ready to use array
 
 Also contains a separate list of profane words, which can be useful to blacklist posts for review
