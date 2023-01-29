@@ -24,7 +24,7 @@ englishWordsList := enwords.EnglishWords()
 2. To get a list of the profane English words
 
 ```golang
-englishWordsList := enwords.EnglishWordsProfane()
+englishWordsProfaneList := enwords.EnglishWordsProfane()
 ```
 
 ## Origin
