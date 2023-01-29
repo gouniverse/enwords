@@ -1,6 +1,8 @@
 # List of English Words
 
-This is a small package which returns a list of the English words as an array
+This is a small package which returns a simple list of the English words as a ready to use array
+
+Also contains a separate list of profane words, which can be useful to blacklist posts for review
 
 ## Installation
 
@@ -10,6 +12,21 @@ go get github.com/gouniverse/enwords
 
 ## Usage
 
+1. To get a list of the regular English words
+
 ```golang
 englishWordsList := enwords.EnglishWords()
 ```
+
+
+2. To get a list of the profane English words
+
+```golang
+englishWordsList := enwords.EnglishWordsProfane()
+```
+
+## Origin
+
+https://github.com/dwyl/english-words - regular English words
+
+https://github.com/zacanger/profane-words - profane English words
