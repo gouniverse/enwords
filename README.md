@@ -27,6 +27,22 @@ englishWordsList := enwords.EnglishWords()
 englishWordsProfaneList := enwords.EnglishWordsProfane()
 ```
 
+## Example
+
+1. Case insensitive check if the word is an English word
+
+```golang
+englishWordsLowerCase := lo.Map(enwords.EnglishWords(), func(word string, index int) string {
+	return strings.ToLower(word)
+})
+  
+if lo.Contains(englishWordsLowerCase, strings.ToLower(myWord)) {
+	log.Println("Found English word for: ", myWord)
+	return false
+}
+```
+
+
 ## Origin
 
 https://github.com/dwyl/english-words - regular English words
