@@ -1,6 +1,6 @@
-# List of English Words <a href="https://gitpod.io/#https://github.com/gouniverse/enwords" style="float:right:"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" loading="lazy"></a>
+# List of English Words <a href="https://gitpod.io/#https://github.com/dracory/enwords" style="float:right:"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" loading="lazy"></a>
 
-![tests](https://github.com/gouniverse/enwords/workflows/tests/badge.svg)
+![tests](https://github.com/dracory/enwords/workflows/tests/badge.svg)
 
 This is a small package which returns a simple list of the English words as a ready to use array
 
@@ -9,7 +9,7 @@ Also contains a separate list of profane words, which can be useful to blacklist
 ## Installation
 
 ```golang
-go get github.com/gouniverse/enwords
+go get github.com/dracory/enwords
 ```
 
 ## Usage
