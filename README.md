@@ -14,14 +14,14 @@ go get github.com/dracory/enwords
 
 ## Usage
 
-1. To get a list of the regular English words
+1. To get a list of the regular English words:
 
 ```golang
 englishWordsList := enwords.EnglishWords()
 ```
 
 
-2. To get a list of the profane English words
+2. To get a list of the profane English words:
 
 ```golang
 englishWordsProfaneList := enwords.EnglishWordsProfane()
