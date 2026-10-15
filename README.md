@@ -1,4 +1,4 @@
-# List of English Words <a href="https://gitpod.io/#https://github.com/dracory/enwords" style="float:right:"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" loading="lazy"></a>
+# List of English Words
 
 ![tests](https://github.com/dracory/enwords/workflows/tests/badge.svg)
 
