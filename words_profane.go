@@ -1,13 +1,12 @@
 package enwords
 
-var wordsProfane = `
+var words_profane = `
 2 girls 1 cup
 2g1c
 4r5e
 5h1t
 5hit
 5ht
-666
 @$$
 a s s
 a s shole
@@ -18,7 +17,6 @@ abbo
 abeed
 abuse
 acrotomophilia
-aeolus
 africoon
 ahole
 alabama hot pocket
@@ -40,10 +38,8 @@ arabushs
 areola
 areole
 argie
-arian
 armo
 armos
-aroused
 arrse
 arschloch
 arse
@@ -138,10 +134,8 @@ babeland
 babes
 baby batter
 baby juice
-backdoor
 backdoorman
 badfuck
-bagging
 ball gag
 ball gravy
 ball kicking
@@ -155,13 +149,10 @@ bampot
 bangbro
 bangbros
 bangbus
-banger
-banging
 bareback
 barely legal
 barelylegal
 barenaked
-barf
 barface
 barfface
 bassterd
@@ -173,7 +164,6 @@ bastardz
 basterds
 basterdz
 bastinado
-bawdy
 bazongas
 bazooms
 bbw
@@ -192,7 +182,6 @@ beatoff
 beatyourmeat
 beaver cleaver
 beaver lips
-beaver
 beef curtains
 beeyotch
 bellend
@@ -234,13 +223,11 @@ bitties
 black cock
 blackcock
 blackman
-blackout
 blacks
 blonde action
 blonde on blonde action
 blonde on blonde
 bloodclaat
-bloody
 blow j
 blow job
 blow your l
@@ -256,7 +243,6 @@ bo obs
 boang
 boche
 boches
-bodily
 boffing
 bogan
 bohunk
@@ -268,16 +254,12 @@ bollocks
 bollok
 bollox
 bombers
-bombing
 bomd
 bondage
 boned
 boner
 boners
 bong
-boobs
-boobz
-bookie
 boong
 boonga
 boongas
@@ -291,9 +273,7 @@ booooooobs
 bootee
 bootlip
 bootlips
-booty
 boozer
-boozy
 bosch
 bosche
 bosches
@@ -319,8 +299,6 @@ buggered
 buggery
 bukake
 bukkake
-bule
-bules
 bullcrap
 bulldike
 bulldyke
@@ -358,7 +336,6 @@ buttman
 buttmuch
 buttmunch
 buttmuncher
-buttons
 buttpirate
 buttplug
 buttstain
@@ -393,7 +370,6 @@ carruth
 cawk
 cawks
 cazzo
-cervix
 chav
 cheese eating surrender monkey
 cheese eating surrender monkies
@@ -436,7 +412,6 @@ chunger
 chungers
 chunkies
 chunkys
-chute
 cipa
 circlejerk
 cl1t
@@ -448,7 +423,6 @@ clansmen
 clanswoman
 clanswomen
 cleveland steamer
-climax
 clit
 clitface
 clitfuck
@@ -515,7 +489,6 @@ coitus
 cok
 cokmuncher
 coksucka
-commie
 condom
 coochie
 coochy
@@ -524,7 +497,6 @@ coolies
 cooly
 coon ass
 coon asses
-coon
 coonass
 coonasses
 coondog
@@ -535,20 +507,15 @@ coprophilia
 copulate
 corksucker
 cornhole
-cox
 cra5h
-crabs
 crackcocain
-cracker
 crackpipe
 crackwhore
 crap
 crapola
 crapper
 crappy
-crash
 creampie
-crotch
 crotchjockey
 crotchmonkey
 crotchrot
@@ -626,8 +593,6 @@ dahmer
 damm
 dammit
 damn
-damnation
-damned
 damnit
 darkey
 darkeys
@@ -650,7 +615,6 @@ defecate
 deggo
 dego
 degos
-demon
 dendrophilia
 destroyyourpussy
 deth
@@ -735,7 +699,6 @@ doggy style
 doggy-style
 doggystyle
 dolcett
-domination
 dominatricks
 dominatrics
 dominatrix
@@ -766,7 +729,6 @@ douchebags
 douchewaffle
 douchey
 dp action
-dp
 dpaction
 dragqueen
 dragqween
@@ -782,7 +744,6 @@ dumbasses
 dumbbitch
 dumbfuck
 dumbshit
-dummy
 dumshit
 dune coon
 dune coons
@@ -809,20 +770,16 @@ ekrem
 ekto
 enculer
 enema
-enlargement
-erect
 erection
 ero
 erotic
 erotism
-escort
 esqua
 essohbee
 ethical slut
 evl
 excrement
 exkwew
-explosion
 extacy
 extasy
 f u c k e r
@@ -880,7 +837,6 @@ fcuk
 fcuker
 fcuking
 fecal
-feces
 feck
 fecker
 feg
@@ -922,7 +878,6 @@ fisting
 fisty
 fitt
 flamer
-flange
 flasher
 flikker
 flipping the bird
@@ -959,9 +914,7 @@ frigg
 frigga
 frigger
 frotting
-fubar
 fucck
-fuck buttons
 fuck
 fuck-tard
 fucka
@@ -1046,9 +999,7 @@ fuktard
 fuktards
 fukwhit
 fukwit
-funeral
 funfuck
-fungus
 futanari
 futanary
 futkretzn
@@ -1068,7 +1019,6 @@ gangbang
 gangbanged
 gangbanger
 gangbangs
-gangsta
 ganja
 gassyass
 gator bait
@@ -1111,7 +1061,6 @@ glans
 glazeddonut
 goatcx
 goatse
-gob
 god dammit
 god damn
 god damnit
@@ -1159,13 +1108,10 @@ goy
 goyim
 greaseball
 greaseballs
-gringo
-gringos
 groe
 groid
 groids
 grope
-gross
 grostulation
 group sex
 gspot
@@ -1232,14 +1178,12 @@ hard core
 hardcore
 hardcoresex
 hardon
-harem
 he11
 headfuck
 hebe
 hebes
 heeb
 heebs
-hell
 hells
 helvete
 hentai
@@ -1248,7 +1192,6 @@ herp
 herpes
 herpy
 heshe
-hijacker
 hijacking
 hillbillies
 hillbilly
@@ -1257,18 +1200,13 @@ hiscock
 hitler
 hitlerism
 hitlerist
-ho
-hoar
 hoare
 hobag
 hodgie
-hoe
 hoer
 hoes
 holestuffer
 hom0
-homey
-homicide
 homo
 homobangers
 homodumbshit
@@ -1334,9 +1272,7 @@ ikey
 ikeymo
 ikeymos
 ikwe
-illegal
 illegals
-inbred
 incest
 indon
 indons
@@ -1344,7 +1280,6 @@ injun
 injuns
 insest
 intercourse
-interracial
 intheass
 inthebuff
 israels
@@ -1366,17 +1301,15 @@ japs
 jebus
 jelly donut
 jerk off
-jerk
 jerk-off
 jerk0ff
 jerked
 jerkoff
 jerries
 jerry
-jesuschrist
+jewboy
 jewed
 jewess
-jig
 jiga
 jigaboo
 jigaboos
@@ -1416,7 +1349,6 @@ jizzn
 jizzum
 jugg
 juggs
-jugs
 jungle bunnies
 jungle bunny
 junglebunny
@@ -1436,7 +1368,6 @@ katsaps
 kawk
 khokhol
 khokhols
-kicking
 kigger
 kike
 kikes
@@ -1485,7 +1416,6 @@ kumbullbe
 kumer
 kummer
 kumming
-kumquat
 kums
 kunilingus
 kunnilingus
@@ -1501,28 +1431,23 @@ kwa
 kwai lo
 kwai los
 kwif
-ky
 kyke
 kykes
 kyopo
 kyopos
 kyrpa
 l3i+ch
-l3i\\+ch
+l3i\+ch
 l3itch
 labia
 lapdance
-lds
 leather restraint
-leather straight jacket
 leather straight
 leatherrestraint
-lebo
 lebos
 lech
 lemon party
 lemonparty
-len
 leper
 lesbain
 lesbayn
@@ -1555,14 +1480,11 @@ lipshits
 lipshitz
 livesex
 loadedgun
-loin
-loins
 lolita
 lovebone
 lovegoo
 lovegun
 lovejuice
-lovemaking
 lovemuscle
 lovepistol
 loverocket
@@ -1574,7 +1496,6 @@ lucifer
 luckycammeltoe
 lugan
 lugans
-lust
 lusting
 lusty
 lynch
@@ -1615,7 +1536,6 @@ master-bate
 masterb8
 masterbaiter
 masterbat
-masterbat*
 masterbat3
 masterbate
 masterbates
@@ -1636,10 +1556,8 @@ maumaus
 mcfagget
 meatbeatter
 meatrack
-menage a trois
 menage
 merd
-meth
 mgger
 mggor
 mibun
@@ -1648,10 +1566,9 @@ mickeyfinn
 mideast
 mierda
 milf
+mindfuck
 minge
 minger
-missionary position
-missionary
 mo-fo
 mockey
 mockie
@@ -1671,7 +1588,6 @@ moon cricket
 moon crickets
 mooncricket
 mooncrickets
-mormon
 moron
 moskal
 moskals
@@ -1735,19 +1651,15 @@ muie
 mulatto
 mulkku
 muncher
-mung
 munging
 munt
 munter
-murder
-murderer
 muschi
 mutha fucker
 mutha fukah
 mutha fuker
 mutha fukkah
 mutha fukker
-mutha
 muthafecker
 muthafuckaz
 muthafucker
@@ -1761,13 +1673,10 @@ mzungus
 n1gga
 n1gger
 n1gr
-nad
 nads
 naked
 nambla
-nappy
 nastt
-nasty
 nastybitch
 nastyho
 nastyslut
@@ -1776,7 +1685,6 @@ nawashi
 nazi
 nazis
 nazism
-necked
 necro
 needthedick
 negres
@@ -1821,7 +1729,6 @@ niggers
 niggle
 niggled
 niggles
-niggling
 nigglings
 niggor
 niggress
@@ -1847,7 +1754,6 @@ niigr
 nimphomania
 nimrod
 ninny
-nip
 nipple
 nipplering
 nipples
@@ -1869,7 +1775,6 @@ noonan
 nooner
 nsfw images
 nsfw
-nudes
 nudger
 nudie
 nudies
@@ -1879,7 +1784,6 @@ nutbutter
 nutfucker
 nutsack
 nutten
-nymph
 nympho
 nymphomania
 o c k
@@ -1891,7 +1795,6 @@ one guy
 one jar
 ontherag
 orafis
-orally
 orga
 orgasim
 orgasim;
@@ -1903,7 +1806,6 @@ orgasum
 orgies
 orgy
 oriface
-orifice
 orifiss
 orospu
 osama
@@ -1934,12 +1836,9 @@ pantie
 panties
 panty
 paska
-pastie
-pasty
 payo
 pcp
 pearlnecklace
-peck
 pecker
 peckerhead
 peckerwood
@@ -2043,13 +1942,11 @@ pissin
 pissing
 pissoff
 pisspig
-pistol
 pizda
 playboy
 playgirl
 pleasure chest
 pleasurechest
-pms
 pocha
 pochas
 pocho
@@ -2067,8 +1964,6 @@ pollock
 pollocks
 pommie grant
 pommie grants
-pommie
-pommies
 pommy
 ponyplay
 poof
@@ -2103,16 +1998,13 @@ pr1ck
 pr1k
 prairie nigger
 prairie niggers
-premature
 preteen
 pric
-prick
 prickhead
 pricks
 prig
 prince albert piercing
 pron
-propaganda
 prostitute
 pthc
 pu55i
@@ -2122,13 +2014,10 @@ pubes
 pubic
 pubiclice
 pubis
-pud
 pudboy
 pudd
 puddboy
-puke
 pula
-pule
 punani
 punanny
 punany
@@ -2149,6 +2038,7 @@ pussycat
 pussydestroyer
 pussyeater
 pussyfart
+pussyfuck
 pussyfucker
 pussylicker
 pussylicking
@@ -2183,16 +2073,11 @@ r5e
 ra8s
 raghead
 ragheads
-raging boner
-raging
-ragingboner
-randy
 rape
 raped
 raper
 raping
 rapist
-raunch
 rautenberg
 rearend
 rearentry
@@ -2203,14 +2088,11 @@ rectus
 redleg
 redlegs
 redlight
-redneck
-rednecks
 redskin
 redskins
 reefer
 reestie
 reetard
-refugee
 reich
 renob
 rentafuck
@@ -2221,7 +2103,6 @@ retards
 retardz
 reverse cowgirl
 reversecowgirl
-rigger
 rimjaw
 rimjob
 rimming
@@ -2236,7 +2117,6 @@ round eyes
 roundeye
 rtard
 rtards
-rump
 rumprammer
 ruski
 russki
@@ -2253,7 +2133,6 @@ s.h.i.t.
 s.o.b.
 s0b
 s_h_i_t
-sac
 sadis
 sadism
 sadist
@@ -2284,12 +2163,9 @@ schvartsen
 schwartze
 schwartzen
 scissoring
-screwed
-screwing
 screwyou
 scroat
 scrog
-scrot
 scrote
 scrotum
 scrud
@@ -2343,7 +2219,6 @@ shat
 shav
 shaved beaver
 shaved pussy
-shaved
 shavedbeaver
 shavedpussy
 shawtypimp
@@ -2427,7 +2302,6 @@ shiz
 shiznit
 shortfuck
 shota
-shrimping
 shylock
 shylocks
 shyt
@@ -2461,16 +2335,9 @@ skurwysyn
 skwa
 skwe
 slag
-slant
 slanteye
 slanty
 slapper
-slaughter
-slave
-slavedriver
-sleaze
-sleazy
-sleezebag
 sleezeball
 slideitin
 slimeball
@@ -2479,7 +2346,6 @@ slopehead
 slopeheads
 sloper
 slopers
-slopes
 slopey
 slopeys
 slopies
@@ -2496,25 +2362,19 @@ slutty
 slutwear
 slutwhore
 slutz
-smack
 smackthemonkey
 smeg
 smegma
-smoker
 smut
 smutty
-snatch
 snatchpatch
-snigger
 sniggered
 sniggering
 sniggers
-sniper
 snowback
 snowballing
 snownigger
 snuff
-sob
 socksucker
 sodom
 sodomise
@@ -2528,13 +2388,10 @@ son-of-a-whore
 sonofabitch
 sonofbitch
 sooties
-sooty
 souse
 soused
 soyboy
 spac
-spade
-spades
 spaghettibender
 spaghettinigger
 spank
@@ -2557,9 +2414,7 @@ spig
 spigotty
 spik
 spiks
-spitter
 splittail
-splooge moose
 splooge
 spludge
 spooge
@@ -2575,7 +2430,6 @@ squaw
 squinty
 squirting
 stagg
-steamy
 stfu
 stiffy
 stoned
@@ -2583,17 +2437,13 @@ stoner
 strap on
 strapon
 strappado
-stringer
 strip club
 stripclub
-stroke
 stroking
 stuinties
-stupid
 stupidfuck
 stupidfucker
 style doggy
-suck
 suckdick
 sucked
 sucker
@@ -2603,39 +2453,29 @@ suckmyass
 suckmydick
 suckmytit
 suckoff
-sucks
 suicide girl
 suicide girls
-suicide
 suicidegirl
 suicidegirls
 suka
-sultry women
-sultry
 sultrywoman
 sultrywomen
 sumofabiatch
-swallow
 swallower
 swalow
 swamp guinea
 swamp guineas
 swastika
-swinger
 syphilis
 t i t
 t i ts
 t1t
 t1tt1e5
 t1tties
-taboo
 tacohead
 tacoheads
 taff
-tainted love
-tainted
 take off your
-tantra
 tar babies
 tar baby
 tarbaby
@@ -2649,8 +2489,6 @@ teat
 teets
 teez
 terd
-terror
-terrorist
 teste
 testee
 testes
@@ -2664,13 +2502,9 @@ thirdeye
 thirdleg
 threesome
 threeway
-throat
 throating
-thrust
-thug
 thumbzilla
 thundercunt
-ti
 tied up
 tig ol bitties
 tig old bitties
@@ -2678,7 +2512,6 @@ tight white
 timber nigger
 timber niggers
 timbernigger
-tinkle
 tit
 titbitnipply
 titfuck
@@ -2703,7 +2536,6 @@ tittywank
 titwank
 tity
 to murder
-toke
 tongethruster
 tongue in a
 tongueina
@@ -2718,18 +2550,17 @@ towel head
 towel heads
 towelhead
 trailertrash
-tramp
 trannie
 tranny
 transsexual
 transvestite
-trashy
 tribadism
-triplex
 trisexual
 trois
-trojan
-trombone
+tr00n
+tr00ns
+troon
+troons
 trots
 tub girl
 tubgirl
@@ -2755,15 +2586,11 @@ twunter
 udge packer
 ukrop
 unclefucker
-undies
-undressing
 unfuckable
-unwed
 upskirt
 uptheass
 upthebutt
 urethra play
-urethra
 urethraplay
 urophilia
 usama
@@ -2778,27 +2605,20 @@ va1jina
 vag
 vag1na
 vagiina
-vagina
-vaginal
 vaj1na
 vajina
 valium
 venus mound
 vgra
-viagra
-vibe
 vibr
 vibrater
 vibrator
 vigra
 violet wand
-virgin
 virginbreaker
 vittu
 vixen
 vjayjay
-vodka
-vomit
 vorarephilia
 voyeurweb
 voyuer
@@ -2807,20 +2627,15 @@ vulva
 w00se
 w0p
 wab
-wad
 wang
 wank
 wanker
 wanking
 wanky
 waysted
-wazoo
-wedgie
-weed
 weenie
 weewee
 weiner
-weirdo
 welcher
 wench
 wet dream
@@ -2843,12 +2658,10 @@ white power
 white trash
 whitenigger
 whitepower
-whites
 whitetrash
 whitey
 whiteys
 whities
-whiz
 whoar
 whop
 whoralicious
@@ -2871,7 +2684,6 @@ willie
 willies
 williewanker
 willy
-wn
 wog
 wogs
 woose
@@ -2894,7 +2706,6 @@ yank
 yaoi
 yarpie
 yarpies
-yeasty
 yed
 yellow showers
 yellowman
